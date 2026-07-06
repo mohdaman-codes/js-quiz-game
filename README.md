@@ -39,15 +39,12 @@ Quiz-App/
 
 ---
 
-## 📸 Screenshot
+## 📸 Application Preview
 
-```
-assets/quiz-preview.png
-```
+The image below shows different screens of the Quiz Game application.
 
-```md
-![Quiz App Screenshot](assets/quiz-preview.png)
-```
+![Quiz Game Preview](assets/quiz-preview.png)
+
 
 ---
 
